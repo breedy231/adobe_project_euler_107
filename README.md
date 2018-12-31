@@ -33,9 +33,9 @@ Execution time: 0.003490017999865813 seconds
 ## Refrences
 
 * Class notes from my previous Algorithms class, found on my professor's [course website](https://shelat.ccis.neu.edu/16f-4800/). Specifically notes on Prim's Algorithm and Minimum Spanning Trees
-* [Python 3.6 Documentation] (https://docs.python.org/3.6/index.html)
-* [Python Patterns - Implementing Graphs] (https://www.python.org/doc/essays/graphs/)
-* [Docker Documentation] (https://docs.docker.com/)
+* [Python 3.6 Documentation](https://docs.python.org/3.6/index.html)
+* [Python Patterns - Implementing Graphs](https://www.python.org/doc/essays/graphs/)
+* [Docker Documentation](https://docs.docker.com/)
 
 ## Time Spent
 
