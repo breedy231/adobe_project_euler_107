@@ -1,3 +1,4 @@
+"""A program to compute a solution to Problem 107 on Project Euler."""
 import timeit
 
 
