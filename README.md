@@ -30,6 +30,11 @@ New network weight: 259679
 Execution time: 0.003490017999865813 seconds
 ```
 
+To run my tests, you can use the pytest module.
+```shell
+python -m pytest tests.py
+```
+
 ## Refrences
 
 * Class notes from my previous Algorithms class, found on my professor's [course website](https://shelat.ccis.neu.edu/16f-4800/). Specifically notes on Prim's Algorithm and Minimum Spanning Trees
